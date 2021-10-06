@@ -244,6 +244,22 @@ button:hover{
  contact section ///
 =====================*/
 
+.home-btn{
+    background-color: #ff0000;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 1px;
+    width: 50%;
+    height: 3rem;
+    font-weight: bold;
+    font-size: 1.3em;
+
+}
+
+.home-btn:hover{
+    background-color: #AA0000;
+    
+}
 
 
 
